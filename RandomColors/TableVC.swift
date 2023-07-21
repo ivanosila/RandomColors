@@ -15,6 +15,7 @@ class TableVC: UIViewController {
         static let colorCell = "ColorCell"
     }
     
+    
     enum Segues {
         static let toDetail = "ToColorsDetailVC"
     }
